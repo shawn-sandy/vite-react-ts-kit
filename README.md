@@ -3,7 +3,7 @@
 
 ## Template Setup
 
-to use this Vite React Typescript starter template copy to your own repository by click on the [Use the template] button above or you can use [degit](https://github.com/Rich-Harris/degit) to copy to a to you computer; run `degit shawn-sandy/vite-react-ts-kit component-dir` from your terminal.
+To use this Vite React Typescript starter template copy to your own repository by clicking on the [Use the template] button above or you can use [degit](https://github.com/Rich-Harris/degit) to copy to a to you computer; run `degit shawn-sandy/vite-react-ts-kit component-dir` from your terminal.
 
 <!-- remove from readme  -->
 
