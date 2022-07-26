@@ -3,10 +3,23 @@
 
 ## Template Setup
 
-To use this Vite React Typescript starter template copy to your own repository by clicking on the [Use the template] button above or you can use [degit](https://github.com/Rich-Harris/degit) to copy to a to you computer; run `degit shawn-sandy/vite-react-ts-kit component-dir` from your terminal.
+#### Clone or copy the template/repository
+
+- To use this Vite React Typescript starter template copy to your own repository by clicking on the [Use the template] button above
+- Or you can use [degit](https://github.com/Rich-Harris/degit) to copy to a to you computer; run `degit shawn-sandy/vite-react-ts-kit component-dir` from your terminal.
+
+#### Install/setup
+
+ - Install the dependencies by running `npm install` from repository root.
+ - Run `npm init` to customize the package.json file.
+ - Run `npm start` to start the development server
+ - Test you app by running `npm run test`
+ - Websites/Application build run `npm run build`
+ - NPM package builds run `npm run build:package`
+ - Publish to NPM run `npm run release` or `npm publish`
+ - Remove this info from the README and update with your package information
 
 <!-- remove from readme  -->
-
 # Introduction
 
 Add component introduction here.
@@ -19,7 +32,7 @@ Add install instructions here.
 
  Add you usage instructions here
 
-## Licenced under the MIT license.
+## Licensed under the MIT license.
 
 The MIT License (MIT)
 
